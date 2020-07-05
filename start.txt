@@ -1,1 +1,5 @@
 Testing for git version v 1.0
+This is added regarding confirguring VIM.
+
+We have been vim.basic manual mode :)
+ 
